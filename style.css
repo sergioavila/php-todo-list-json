@@ -1,0 +1,24 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+}
+
+li {
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #ffdd99;
+    text-shadow: 2px 2px #00000070;
+
+    border-bottom: 2px solid #ffffff;
+}
+
+.is-done {
+    text-decoration: line-through;
+}

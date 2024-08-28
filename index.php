@@ -16,7 +16,7 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 
     <!-- Style -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 
     <title>PHP ToDo List JSON</title>
 </head>
@@ -50,7 +50,7 @@
         </div>
     </main>
 
-    <script src="js/script.js"></script>
+    <script src="myscript.js"></script>
 </body>
 
 </html>
