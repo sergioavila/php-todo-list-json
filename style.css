@@ -1,0 +1,38 @@
+body{
+    background-color: #3550a1;
+    color: white;
+}
+.alert{
+    background-color: #041955;
+}
+#add{
+    background-color: #ec19fc;
+    aspect-ratio: 1;
+    color: white;
+    border: 0;
+    right: 1rem;
+    bottom: 1rem
+}
+.todoForm{
+    background-color: #7D80AA;
+    bottom: -50vh;
+}
+.is-done {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+
+.active {
+    bottom: 0;
+}
+.check{
+    background-color: #247bfd;
+    color: white;
+    border: 0;
+    right: 1rem;
+    bottom: 1rem
+}
+.is-done .check{
+    background-color: #247bfd;
+    fill: #247bfd;
+}
